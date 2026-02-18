@@ -37,7 +37,7 @@ Per eseguire i notebook in locale e riprodurre i grafici:
 ```bash
 # Clona la repository
 git clone https://github.com/MoxPy/italy-cyber-gap.git
-cd tesi-manuel
+cd italy-cyber-gap
 
 # Installa le dipendenze richieste
 pip install -r requirements.txt
