@@ -31,7 +31,7 @@ I dati grezzi analizzati derivano dall'integrazione di database istituzionali e 
 * **Clusit** (Rapporto sulla sicurezza ICT in Italia)
 * **Check Point Research** (Global Threat Intelligence)
 
-## ⚙Riproducibilità (Setup)
+## Riproducibilità
 Per eseguire i notebook in locale e riprodurre i grafici:
 
 ```bash
