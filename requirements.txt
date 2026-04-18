@@ -3,3 +3,4 @@ seaborn~=0.13.2
 matplotlib~=3.10.8
 numpy~=2.4.2
 pyarrow
+scipy
